@@ -10,16 +10,3 @@ I made this website to keep my Daraz purchases, reviews, and ratings in one plac
 - **New Products** (`form.html`): A Google Form for suggesting products.
 
 The site is made with plain HTML and CSS, and the product images are in the `images` folder.
-
-## Run it locally
-
-No setup or build step is needed. Clone the repository and open `index.html` in your browser:
-
-```bash
-git clone https://github.com/Prazwal30/Review-website.git
-cd Review-website
-```
-
-## Get in touch
-
-If you have a product recommendation, you can use the form on the site or email me at [prajwalroka@gmail.com](mailto:prajwalroka@gmail.com).
