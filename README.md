@@ -2,7 +2,7 @@
 
 I made this website to keep my Daraz purchases, reviews, and ratings in one place. It includes products I've tried, what I liked (and didn't like), and a form where you can suggest something for me to check out next.
 
-## What's here
+- What's here
 
 - **Home** (`index.html`): A look at some of my purchases, with prices, ratings, and links to the Daraz product pages.
 - **My Review** (`second.html`): My personal thoughts on a few of the products.
@@ -10,3 +10,4 @@ I made this website to keep my Daraz purchases, reviews, and ratings in one plac
 - **New Products** (`form.html`): A Google Form for suggesting products.
 
 The site is made with plain HTML and CSS, and the product images are in the `images` folder.
+yeah i have not commit because it was simple and thee were less erros so when i code it i have gone straight 5 hours and made it without commit and all
